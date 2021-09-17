@@ -1,0 +1,29 @@
+body {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  bottom: 50px;
+  margin-top: -150px;
+  margin-right: -50px;
+  margin-left: -100px;
+  text-align: center;
+  background-color: rgba(16, 83, 95, 0.87);
+  font-family: "Times New Roman", Times, serif;
+}
+form {
+  background-color: rgb(32, 163, 141);
+  padding: 10px;
+}
+.form {
+  color: yellow;
+}
+.paragraph {
+  color: rgb(138, 228, 86);
+  align-content: center;
+}
+.email {
+  position: 50px;
+}
+.number ::before {
+  align-items: center;
+}
