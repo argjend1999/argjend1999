@@ -29,3 +29,9 @@ form {
 .number ::before {
   align-items: center;
 }
+.the-message{
+  align-items: center;
+  color: rgb(190, 190, 190);
+
+  text-align: center;
+}
